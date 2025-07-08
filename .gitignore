@@ -1,0 +1,16 @@
+#Python Virtual Environment
+venv/
+
+#Python cache files
+__pycache__/
+*.pyc
+
+#Previous Projects
+Mod-0-group-proj/
+my_first_pipline/
+
+#Python Code
+h.py
+h2.py
+m.py
+mod1_grp_proj1.py
